@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ## 🖼️Screenshots
 | Rent Distribution                  | Top Locations                              |
 | ---------------------------------- | ------------------------------------------ |
-| ![Dist Plot](images/rent_dist.png) | ![Location Plot](images/top_locations.png) |
+| ![Dist Plot](assets/rent_dist.png) | ![Location Plot](assets/top_locations.png) |
 
 ---
 
