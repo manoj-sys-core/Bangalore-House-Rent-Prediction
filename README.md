@@ -3,6 +3,6 @@ An interactive Streamlit app to estimate house rent in Bangalore based on proper
 
 ### 🔗 Live Demo
 
-Check out the live application here: [Bangalore House Rent Predictor](https://bangalore-house-rent-prediction.streamlit.app/)
+Check out the live application here: [Bangalore House Rent Predictor](https://bangalore-house-rent-prediction-manoj-s.streamlit.app/)
 
 
